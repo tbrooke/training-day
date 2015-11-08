@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ReplState" timestamp="1446992793568">{:repl-history {:ide [], :local [&quot;(def answer ((fn [x] (+ x)) 42))&quot; &quot;(def answer ((fn [x] (+ x)) (int 42)))&quot; &quot;(answer)&quot; &quot;(def answer (fn [x] x) x)&quot; &quot;(def answer ((fn [x] x) 42))&quot; &quot;(def answer 42)&quot; &quot;(test)&quot;], :remote []}}</component>
+</project>

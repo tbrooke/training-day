@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="jruby">
+    <CLASSES />
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$USER_HOME$/msm/oc/vendor/bundle/gems/bcrypt-3.1.10/ext/jruby" />
+      <root url="file://$USER_HOME$/msm/oc/vendor/bundle/gems/bcrypt-3.1.10/spec" />
+      <root url="file://$USER_HOME$/msm/oc/vendor/bundle/gems/json-1.8.3/java/src" />
+      <root url="file://$USER_HOME$/msm/oc/vendor/bundle/gems/thread_safe-0.3.5/ext" />
+      <root url="file://$USER_HOME$/msm/oc/vendor/bundle/gems/thread_safe-0.3.5/test/src" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,49 @@
+(ns training-day)
+(defn square [x]
+x x))
+racket -il xrepl
+(defn square [x]
+(square 3)
+(* 3 3)
+(+ 1 2 3)
+)
+(* 2 3)
+(square 3)
+  (* x x))
+(defn squre [x]
+)
+(squre 3)
+(* x x)
+(ns training-day)
+(def answer ":(")
+(def hai "O HAI!")
+(defn squre [x]
+  (* x x))
+(square 3)
+(defn average [a b]
+ (/ (+ a b) 2))
+(+ (* 2 3) 4)
+((fn [x] (str "Welcome to China Grove " x) "Tom")
+)
+((fn [x] (str "Welcome to China Grove " x)) "Tom")
+(def answer ((fn [x] (x) ) 42))
+(def answer ((fn [x] (x)) 42))
+(answer)
+(fn [x] (+ x) 42)
+(42)
+(+ 42)
+(fn [x] (+ x) 42)
+(def answer ((fn [x] (+ x)) 42))
+(nswer)
+(answer)
+answer
+(ns training-day)
+(def answer ((fn [x] (+ x)) 42))
+(answer)
+(test)
+ (def hai "O HAI!")
+(defn squre [x]
+  (* x x))
+(defn average [a b]
+ (/ (+ a b) 2))
+(def answer ((fn [x] (+ x)) (int 42)))
